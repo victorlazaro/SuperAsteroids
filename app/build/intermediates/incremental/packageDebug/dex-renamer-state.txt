@@ -1,0 +1,7 @@
+#Thu Nov 03 10:53:48 MDT 2016
+base.0=C\:\\Users\\Victor\\Dropbox\\Documents\\BYU\\CS240\\SuperAsteroids\\SuperAsteroids\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_18537fc6184bca10e13b00950e476d9ade68a0aa
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Victor\\Dropbox\\Documents\\BYU\\CS240\\SuperAsteroids\\SuperAsteroids\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fe1744314684873d6ceed0943bbad79ca81b642b\\classes.dex
+base.1=C\:\\Users\\Victor\\Dropbox\\Documents\\BYU\\CS240\\SuperAsteroids\\SuperAsteroids\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fe1744314684873d6ceed0943bbad79ca81b642b
+file.0=C\:\\Users\\Victor\\Dropbox\\Documents\\BYU\\CS240\\SuperAsteroids\\SuperAsteroids\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_18537fc6184bca10e13b00950e476d9ade68a0aa\\classes.dex

@@ -1,0 +1,28 @@
+DROP TABLE IF EXISTS "asteroids"
+DROP TABLE IF EXISTS "cannons"
+DROP TABLE IF EXISTS "engines"
+DROP TABLE IF EXISTS "extraparts"
+DROP TABLE IF EXISTS "levelAsteroids"
+DROP TABLE IF EXISTS "levelObjects"
+DROP TABLE IF EXISTS "levels"
+DROP TABLE IF EXISTS "mainBodies"
+DROP TABLE IF EXISTS "imageObjects"
+DROP TABLE IF EXISTS "powerCores"
+DROP TABLE IF EXISTS "imagesInfo"
+DROP TABLE IF EXISTS "levelObjectLinker"
+DROP TABLE IF EXISTS "levelAsteroidLinker"
+
+
+CREATE TABLE "asteroids" ("id" INTEGER PRIMARY KEY AUTOINCREMENT  "asteroidName" VARCHAR, "imageIdForKey" INTEGER,"type" VARCHAR)
+CREATE TABLE "cannons" ("id" INTEGER PRIMARY KEY AUTOINCREMENT  "attachPoint" VARCHAR ,"emitPoint" VARCHAR,"imageIdForKey" INTEGER,"attackImageForKey" INTEGER,"attackSoundPath" VARCHAR,"damage" INTEGER)
+CREATE TABLE "engines" ("id" INTEGER PRIMARY KEY AUTOINCREMENT  "baseSpeed" INTEGER,"baseTurnRate" INTEGER,"attachPoint" VARCHAR,"imageIdForKey" INTEGER)
+CREATE TABLE "extraparts" ("id" INTEGER PRIMARY KEY AUTOINCREMENT  "attachPoint" VARCHAR NOT NULL , imageIdForKey INTEGER )
+CREATE TABLE "levelAsteroids" ("id" INTEGER PRIMARY KEY AUTOINCREMENT  "numberOfAsteroids" INTEGER, "asteroidId INTEGER)
+CREATE TABLE "levelObjects" ("id" INTEGER PRIMARY KEY AUTOINCREMENT  "position" VARCHAR, "objectid INTEGER, "scale" FLOAT)
+CREATE TABLE "levels" ("id" INTEGER PRIMARY KEY AUTOINCREMENT  "levelNumber" INTEGER UNIQUE , "levelTitle" VARCHAR, "levelHint" VARCHAR, "levelWidth" INTEGER, "levelHeight" INTEGER, "levelMusic" VARCHAR, "levelObjectForKey" INTEGER, "levelAsteroidsForKey" INTEGER)
+CREATE TABLE "mainBodies" ("id" INTEGER PRIMARY KEY AUTOINCREMENT  "cannonAttach" VARCHAR, "engineAttach" VARCHAR , "extraAttach" VARCHAR , imageIdForKey INTEGER)
+CREATE TABLE "imageObjects" ("id" INTEGER PRIMARY KEY AUTOINCREMENT  "imagesPath" VARCHAR)
+CREATE TABLE "powerCores" ("id" INTEGER PRIMARY KEY AUTOINCREMENT  "cannonBoost" INTEGER , "engineBoost" INTEGER, "imagePath" VARCHAR)
+CREATE TABLE "imagesInfo" ("id" INTEGER PRIMARY KEY AUTOINCREMENT  "imagePath" VARCHAR, "imageWidth INTEGER", "imageHeight" INTEGER)
+CREATE TABLE "levelObjectLinker" ("level_id" INTEGER, "object_id" INTEGER)
+CREATE TABLE "levelAsteroidLinker" ("level_id" INTEGER, "asteroid_id" INTEGER)

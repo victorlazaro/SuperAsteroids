@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor\Dropbox\Documents\BYU\CS240\SuperAsteroids\SuperAsteroids\app\libs\json-simple-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="C:\Users\Victor\Dropbox\Documents\BYU\CS240\SuperAsteroids\SuperAsteroids\app\build\intermediates\transforms\dex\debug\folders\1000\2\json-simple-1.1.1_4a4a1cc5fb63b4e1a16e1403848eb5d8dbff9f32\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Victor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Victor\Dropbox\Documents\BYU\CS240\SuperAsteroids\SuperAsteroids\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_21bc3dee4a6dc624d4cc272fe166533772c29599\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Victor\Dropbox\Documents\BYU\CS240\SuperAsteroids\SuperAsteroids\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4a1d05d2c5de892d956d9f955107ccfffa5bbace">
+        <dex dex="C:\Users\Victor\Dropbox\Documents\BYU\CS240\SuperAsteroids\SuperAsteroids\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_18537fc6184bca10e13b00950e476d9ade68a0aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor\Dropbox\Documents\BYU\CS240\SuperAsteroids\SuperAsteroids\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Victor\Dropbox\Documents\BYU\CS240\SuperAsteroids\SuperAsteroids\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-19.1.0_e0dd09af62cfedf8ebb8947dbe7b647bf84b4084\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Victor\Dropbox\Documents\BYU\CS240\SuperAsteroids\SuperAsteroids\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fde5442706d6ed5f627a447dd5c8b0d18a5b5415">
+        <dex dex="C:\Users\Victor\Dropbox\Documents\BYU\CS240\SuperAsteroids\SuperAsteroids\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fe1744314684873d6ceed0943bbad79ca81b642b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Victor\Dropbox\Documents\BYU\CS240\SuperAsteroids\SuperAsteroids\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Victor\Dropbox\Documents\BYU\CS240\SuperAsteroids\SuperAsteroids\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-19.1.0_e0dd09af62cfedf8ebb8947dbe7b647bf84b4084\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Victor\Dropbox\Documents\BYU\CS240\SuperAsteroids\SuperAsteroids\app\libs\json-simple-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="C:\Users\Victor\Dropbox\Documents\BYU\CS240\SuperAsteroids\SuperAsteroids\app\build\intermediates\transforms\dex\debug\folders\1000\2\json-simple-1.1.1_4a4a1cc5fb63b4e1a16e1403848eb5d8dbff9f32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor\Dropbox\Documents\BYU\CS240\SuperAsteroids\SuperAsteroids\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1258556148760ed7dc49d0d47e36d4270f61befc">
+        <dex dex="C:\Users\Victor\Dropbox\Documents\BYU\CS240\SuperAsteroids\SuperAsteroids\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_18537fc6184bca10e13b00950e476d9ade68a0aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Victor\Dropbox\Documents\BYU\CS240\SuperAsteroids\SuperAsteroids\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_21bc3dee4a6dc624d4cc272fe166533772c29599\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Victor\Dropbox\Documents\BYU\CS240\SuperAsteroids\SuperAsteroids\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7f84fb5975a72cfb89a91ed36cac99a8652f6eb6">
+        <dex dex="C:\Users\Victor\Dropbox\Documents\BYU\CS240\SuperAsteroids\SuperAsteroids\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fe1744314684873d6ceed0943bbad79ca81b642b\classes.dex" />
+    </item>
+
+</items>
